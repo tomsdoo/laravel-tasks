@@ -1,4 +1,4 @@
-/vender/
+/vendor/
 /node_modules/
 /storage/*
 /storage/framework/cache/*
